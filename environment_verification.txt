@@ -7,5 +7,5 @@ LAB 0: ENVIRONMENT VERIFICATION
 ✅ Pandas: 3.0.3
 ✅ Matplotlib: 3.10.9
 ✅ Seaborn: 0.13.2
-⚠️  Virtual Environment: Not active
+✅ Virtual Environment: Not active
 ==================================================
